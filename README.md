@@ -2,7 +2,7 @@
 
 First EDA 
 
-Find 12 drivers with all nan and always target 0
+Find 12 drivers with all nan and always target 1
 
 Another corelation with target
 
